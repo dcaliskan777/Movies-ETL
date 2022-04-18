@@ -32,7 +32,7 @@ The outputs are
 
 wiki_movies_df_head
 
-![](Resources/wiki_movies_df_head.png)
+![](Resources/21.wiki_movies_df_head.png)
 
 wiki_movies_df_colums_list
 
