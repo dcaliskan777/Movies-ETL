@@ -38,3 +38,5 @@ wiki_movies_df_colums_list
 
 ![](Resources/22.wiki_movies_df_columns_list.png)
 
+Notice that in the output given in the challenge the number columns is 23 but in my project it is 21.
+In the challenge Budget and Release date columns were not dropped; so these columns are contained two times in the data frame, as old and new. I dropped old columns.
