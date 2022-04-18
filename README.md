@@ -6,7 +6,7 @@
 
 The ETL Function is
 
-![](ETL_function_test.ipynb)
+![ETL_function_test](ETL_function_test.ipynb)
 
 The outputs are
 
@@ -26,4 +26,4 @@ ratings
 
 The code of the deliverable 2 is
 
-![](ETL_clean_wiki_movies.ipynb)
+![ETL_clean_wiki_movies](ETL_clean_wiki_movies.ipynb)
