@@ -71,7 +71,7 @@ movies_query
 
 rating_query
 
-![](Resources/rating_query)
+![](Resources/rating_query.png)
 
 elapsed_time
 
