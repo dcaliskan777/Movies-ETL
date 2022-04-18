@@ -40,3 +40,19 @@ wiki_movies_df_colums_list
 
 Notice that in the output given in the challenge the number columns is 23 but in my project it is 21.
 In the challenge Budget and Release date columns were not dropped; so these columns are contained two times in the data frame, as old and new. I dropped old columns.
+
+###  Extract and Transform the Kaggle Data
+
+The code of the deliverable 2 is
+
+![ETL_clean_kaggle_data](ETL_clean_kaggle_data.ipynb)
+
+The outputs are
+
+movies_with_ratings_df
+
+![](Resources/31.movies_with_ratings_df.png)
+
+movies_df
+
+![](Resources/32.movies_df.png)
