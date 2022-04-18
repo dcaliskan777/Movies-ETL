@@ -27,3 +27,14 @@ ratings
 The code of the deliverable 2 is
 
 ![ETL_clean_wiki_movies](ETL_clean_wiki_movies.ipynb)
+
+The outputs are
+
+wiki_movies_df_head
+
+![](Resources/wiki_movies_df_head.png)
+
+wiki_movies_df_colums_list
+
+![](Resources/22.wiki_movies_df_columns_list.png)
+
